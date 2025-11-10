@@ -1,0 +1,8 @@
+{
+  "name": "PEKA-SMART",
+  "description": "PEKA-SMART (Pembelajaran Berkesadaran Koding dan AI: Sistem Monitoring Adaptif Reflektif Terpadu) adalah asisten reflektif berbasis AI untuk membantu siswa SMK belajar Koding dan AI secara bermakna.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
